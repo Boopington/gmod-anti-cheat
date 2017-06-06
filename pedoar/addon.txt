@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"pedoAR"
+	"version"		"4.3"
+	"up_date"		""
+	"author_name"		"Boopington"
+	"author_email"		""
+	"author_url"		""
+	"info"			"Snazzle fwomp diddle."
+}
